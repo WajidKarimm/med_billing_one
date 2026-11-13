@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kamran Nazir — Medical Billing \u0026 Credentialing Portfolio",
+  "description": "Portfolio of Kamran Nazir, Credentialing Specialist and Medical Biller specializing in Revenue Cycle Management, ICD-10/CPT/HCPCS coding, and provider enrollment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
